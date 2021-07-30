@@ -25,8 +25,6 @@
   <a href = "mailto:taisomcarvalho15@gmail.com"><img height="60" width="60" src="https://image.flaticon.com/icons/png/512/2335/2335363.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/clesio-carvalho/" target="_blank"><img height="60" width="60" src="https://image.flaticon.com/icons/png/512/174/174857.png" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 <!--
