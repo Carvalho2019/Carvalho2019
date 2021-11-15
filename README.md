@@ -1,16 +1,16 @@
 
 
-<h1 aling="center"> Welcome to my profile, I'm Clésio Carvalho 😄</h1>
+<h1 align="center"> Welcome to my profile, I'm Clésio Carvalho 😄</h1>
 
 
  <div>
   <a href="https://github.com/Carvalho2019">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Carvalho2019&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalho2019&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carvalho2019&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
  
-<div aling="center" style="display: inline_block"> 
+<div align="center" style="display: inline_block"> 
   <a href="https://dribbble.com/laudio" target="_blank"><img width="60"height="60"   src="https://image.flaticon.com/icons/png/512/3955/3955085.png" target="_blank"></a>
   <a href="https://web.whatsapp.com/send?phone=946853092" target="_blank"><img height="60" width="60" src="https://image.flaticon.com/icons/png/512/3536/3536445.png" target="_blank"></a>
   <a href="https://instagram.com/cesario_miguel15" target="_blank"><img height="60" width="60" src="https://image.flaticon.com/icons/png/512/3955/3955027.png" target="_blank"></a>
